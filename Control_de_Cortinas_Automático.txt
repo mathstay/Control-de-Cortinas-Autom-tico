@@ -1,4 +1,4 @@
-Material típico que usarías:
+Materiales:
 Arduino UNO
 
 Motor (por ejemplo, motorreductor DC o motor paso a paso)
