@@ -1,0 +1,23 @@
+Material típico que usarías:
+Arduino UNO
+
+Motor (por ejemplo, motorreductor DC o motor paso a paso)
+
+Driver de motor (L298N, relé, o similar)
+
+Sensor de luz (LDR + resistor de 10kΩ)
+
+Módulo RTC (DS3231, DS1307 para la hora)
+
+Fuente de alimentación externa si el motor necesita más corriente
+
+Botones manuales opcionales para apertura/cierre manual
+
+Lógica general:
+Si la luz baja de cierto umbral → cerrar cortinas.
+
+Si la luz sube de cierto umbral → abrir cortinas.
+
+Según la hora: por ejemplo, abrir a las 7:00 AM y cerrar a las 8:00 PM.
+
+
